@@ -10,7 +10,9 @@ My journey to enhance verilog programming skills using xilinx vivado tool. This 
 
 **Focus Area** :- Basic Verilog programming, Combinational and sequential ciruits, testbench creation, simulation and synthesis.
 
-**GOALS** :- 1.Develop a strong foundation in Verilog HDL.
+**GOALS** :- 
+
+1.Develop a strong foundation in Verilog HDL.
 
             2. Gain proficiency in using xilinx Vivado for Design and simulation.
             
