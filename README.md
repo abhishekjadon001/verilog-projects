@@ -17,4 +17,20 @@ My journey to enhance verilog programming skills using xilinx vivado tool. This 
             2. Gain proficiency in using xilinx Vivado for Design and simulation.
             
             3. Build a habit of daily coding and problem-solving.
+
+**REPOSITORY STRUCTURE** :-
+This repository is organized into folders for each containing the problem statements, Verilog code, and testbenches. Each folder includes:
+
+
+. **Verilog Code**: The Verilog implementation of the solution.
+
+
+. **Testbench**: The testbench used the validate the solution.
+
+
+.**Simulation Results**: Screenshots of the simulation results (where applicable).
+
+
+. **Schematic Result**: Schematic view of the Design.
+
             
