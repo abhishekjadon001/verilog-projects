@@ -43,6 +43,8 @@ This repository is organized into folders for each containing the problem statem
 
 [Project 4 - FULL SUBTRACTOR](https://github.com/abhishekjadon001/verilog-projects/tree/main/FULL%20SUBTRACTOR)
 
+[Project 5 - DECODER](https://github.com/abhishekjadon001/verilog-projects/tree/main/DECODER)
+
 ### **contribution and Suggestions**
 
 I am always looking to grow and improve. If you have any suggestions for topics, projects, or areas of focus that would help me in my journey, please feel free to open an issue or contribute to the repository. Your insights and feedback are invaluable.
